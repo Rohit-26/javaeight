@@ -9,9 +9,7 @@ public class App {
 		System.out.println("Hello World!!!");
 		System.out.println("Apple");
 
-		System.out.println("Rohit Tiwari");
-		System.out.println("Mohit Tiwari");
-		System.out.println("Rohit Tiwari");
+		System.out.println("Raohit Tiwari");
 		
 
 	}
